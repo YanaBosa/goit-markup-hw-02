@@ -1,0 +1,154 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+}
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+.header {
+}
+.header-logo {
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.33x;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+.logo-web {
+    color: #4D5AE5;
+
+}
+.header-navigation {
+}
+.header-logo {
+}
+.header-list {
+}
+.header-item {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+
+}
+.header-link {
+}
+.header-contacts {
+   
+}
+.header-contacts-list {
+    
+}
+.header-mail, .header-phone {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.header-phone {
+}
+.hero {
+    background: #2E2F42;
+}
+.hero-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.hero-btn {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+.main-content {
+}
+.main-content-caption {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.main-content-list {
+}
+.main-content-item {
+}
+.main-content-subtitle {
+}
+.main-content-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.footer {
+    background: #2E2F42;
+}
+.footer-link {
+    font-family: 'Raleway';
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+
+}
+.footer-logo-web {
+    color: #4D5AE5;
+}
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #E7E9FC;
+}
+
+/* Стилі портфоліо  */
+.content-buttons {
+}
+.content-title {
+}
+.buttons-list {
+   
+}
+.button-item {
+    
+    
+}
+.content-button-item {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4D5AE5;
+    cursor: pointer;
+
+}
+.content-projects {
+}
+.projects-list {
+}
+.project-item {
+}
+.project-link {
+}
+.project-subtitle {
+}
+.project-text {
+}
