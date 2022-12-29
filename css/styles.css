@@ -36,11 +36,6 @@ body {
 .header-list {
 }
 .header-item {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--title-color);
 }
 .header-mail:hover,
 .header-mail:focus,
@@ -49,6 +44,11 @@ body {
   color: #4d5ae5;
 }
 .header-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1, 5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .header-contacts {
 }
@@ -100,11 +100,7 @@ body {
 /*------------------ Planning------------------ */
 .planning {
 }
-.visually-hidden {
-}
 .planning-list {
-}
-.list {
 }
 .planning-item {
 }
@@ -135,8 +131,7 @@ body {
 }
 .actions-list {
 }
-.list {
-}
+
 .actions-item {
 }
 /*------------------ Team------------------ */
@@ -182,15 +177,14 @@ body {
 }
 
 /* Стилі портфоліо  */
-.content-buttons {
+.projects {
 }
-.content-title {
+.projects-buttons-list {
 }
-.buttons-list {
+.projects-button-item {
 }
-.button-item {
-}
-.content-button-item {
+.project-btn {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -198,8 +192,7 @@ body {
   color: #4d5ae5;
   cursor: pointer;
 }
-.content-projects {
-}
+
 .projects-list {
 }
 .project-item {
@@ -207,6 +200,15 @@ body {
 .project-link {
 }
 .project-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .project-text {
+  font-size: var(--text-font-size);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
